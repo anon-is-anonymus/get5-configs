@@ -1,7 +1,7 @@
 "Match"
 {
-	"matchid"		"KarLok10Man"
-	"num_maps"		"3"
+	"matchid"		"B05"
+	"num_maps"		"1"
 
 	"spectators"
 	{
@@ -36,40 +36,38 @@
 
 	"team1"
 	{
-		"name"		"Crusade Planning"
-		"tag"		"CPDVult"
-		"flag"		"SG"
+		"name"		"team1"
+		"tag"		"team1"
 		
 		"players"
 		{
-			"STEAM_0:1:206779407"		""
-			"STEAM_0:1:126103656"		""
-			"STEAM_0:0:536336359"		""
-			"STEAM_0:0:174442550"		""
-			"STEAM_0:1:457115635"		""
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
 		}
 	}
 
 	"team2"
 	{
-		"name"		"Karlok gay"
-		"tag"		"Gay"
-		"flag"		"SG"
+		"name"		"team2"
+		"tag"		"team2"
 		
 		"players"
 		{
-			"STEAM_0:1:151505175"		""
-			"STEAM_0:1:461213575"		""
-			"STEAM_0:0:591008388"		""
-			"STEAM_0:0:123820588"		""
-			"STEAM_0:1:544270895"		""
-			"STEAM_0:0:509572154"		""
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
 		}
 	}
 
 	
 	"cvars"
 	{
-		"hostname"		"Kar Lok 10 Man"
+		"hostname"		"A2B B05"
 	}
 }

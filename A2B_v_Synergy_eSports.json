@@ -1,0 +1,73 @@
+"Match"
+{
+	"matchid"		"A2B_v_Synergy_eSports"
+	"num_maps"		"1"
+
+	"spectators"
+	{
+		"players"
+		{
+			"STEAM_1:1:....."		""
+			"STEAM_1:1:....."		""
+			"STEAM_1:1:....."		""
+		}
+	}
+
+	"skip_veto"		"0"
+
+	"veto_first"	"team1"
+
+	"side_type"		"always_knife"
+
+	"maplist"
+	{
+		"de_dust2"		""
+		"de_inferno"		""
+		"de_mirage"		""
+		"de_nuke"		""
+		"de_overpass"		""
+		"de_ancient"		""
+		"de_vertigo"		""
+	}
+
+	"players_per_team"		"5"
+	"min_players_to_ready"		"4"
+	"min_spectators_to_ready"		"0"
+
+	"team1"
+	{
+		"name"		"team1"
+		"tag"		"team1"
+		
+		"players"
+		{
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
+		}
+	}
+
+	"team2"
+	{
+		"name"		"team2"
+		"tag"		"team2"
+		
+		"players"
+		{
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
+			""		""
+		}
+	}
+
+	
+	"cvars"
+	{
+		"hostname"		"A2B VS Synergy eSports"
+	}
+}

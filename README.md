@@ -16,6 +16,6 @@ B03: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B03.json?token
 B05: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B05.json?token=GHSAT0AAAAAABUFY543CTVLG4ZQNZS3ROPKYVA6WHQ  
 
 #A2B
-config files created specially for A2B Esports. Join them here:
+config files created specially for A2B Esports. Join them here: https://discord.gg/rTK6RHyecE  
 
 A2B V Synergy eSports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B_v_Synergy_eSports.json?token=GHSAT0AAAAAABUFY542AGPPK7OCM4PHWFYAYVA6VIQ

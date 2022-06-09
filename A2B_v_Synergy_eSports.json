@@ -11,11 +11,9 @@
 	"spectators":
 	{
 		"players":
-		[
-			"STEAM_0:1:679230388",
-			"STEAM_1:1:.....",
-			"STEAM_1:1:....."
-		]
+		{
+			"76561199318726505":		"Observer"
+		}
 	},
 
 	"maplist":

@@ -1,6 +1,12 @@
 {
-	"matchid":		"A2B_v_Synergy_eSports",
-	"num_maps":		1,
+	"matchid": "A2B_v_Synergy_eSports",
+	"num_maps":	1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 0,
+	"skip_veto": false,
+	"veto_first": "team1",
+	"side_type": "always_knife",
 
 	"spectators":
 	{
@@ -10,13 +16,7 @@
 			"STEAM_1:1:.....",
 			"STEAM_1:1:....."
 		]
-	}
-
-	,"skip_veto":		false,
-
-	"veto_first":	"team1",
-
-	"side_type":		"always_knife",
+	},
 
 	"maplist":
 	[
@@ -27,37 +27,35 @@
 		"de_overpass",
 		"de_ancient",
 		"de_vertigo"
-	]
-
-	,"players_per_team":		5,
-	"min_players_to_ready":		4,
-	"min_spectators_to_ready":		0,
+	],
 
 	"team1":
 	{
-		"name":		"team1",
-		"tag":		"team1",
+		"name": "Team Illusion",
+		"tag": "ILL",
+		"flag": "EU",
 		
 		"players":
 		{
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
+			"76561198366015091":		"",
+			"76561198179555278":		"",
+			"76561199014599577":		"",
+			"76561199232573945":		"",
+			"76561198324647478":		"",
 			"":		""
 		}
 	},
 
 	"team2":
 	{
-		"name":		"team2",
-		"tag":		"team2",
+		"name": "Synergy eSports",
+		"tag": "SYE",
+		"flag": "UK",
 		
 		"players":
 		{
-			"":		"",
-			"":		"",
+			"76561199153789316":		"",
+			"76561199110277929":		"",
 			"":		"",
 			"":		"",
 			"":		"",
@@ -69,6 +67,7 @@
 	"cvars":
 	{
 		"hostname":		"A2B VS Synergy eSports",
-		"tv_delay": 90
+		"tv_delay": 90,
+		"tv_delay1": 45
 	}
 }

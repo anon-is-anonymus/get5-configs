@@ -1,73 +1,73 @@
-"Match"
 {
-	"matchid"		"B03"
-	"num_maps"		"3"
+	"matchid":		"B03",
+	"num_maps":		"3",
 
-	"spectators"
+	"spectators":
 	{
-		"players"
-		{
-			"STEAM_1:1:....."		""
-			"STEAM_1:1:....."		""
-			"STEAM_1:1:....."		""
-		}
+		"players":
+		[
+			"STEAM_1:1:.....",
+			"STEAM_1:1:.....",
+			"STEAM_1:1:....."
+		]
 	}
 
-	"skip_veto"		"0"
+	,"skip_veto":		0,
 
-	"veto_first"	"team1"
+	"veto_first":	"team1",
 
-	"side_type"		"standard"
+	"side_type":		"standard",
 
-	"maplist"
+	"maplist":
+	[
+		"de_dust2",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_ancient",
+		"de_vertigo"
+	]
+
+	,"players_per_team":		"5",
+	"min_players_to_ready":		"4",
+	"min_spectators_to_ready":		"0",
+
+	"team1":
 	{
-		"de_dust2"		""
-		"de_inferno"		""
-		"de_mirage"		""
-		"de_nuke"		""
-		"de_overpass"		""
-		"de_ancient"		""
-		"de_vertigo"		""
-	}
-
-	"players_per_team"		"5"
-	"min_players_to_ready"		"4"
-	"min_spectators_to_ready"		"0"
-
-	"team1"
-	{
-		"name"		"team1"
-		"tag"		"team1"
+		"name":		"team1",
+		"tag":		"team1",
 		
-		"players"
+		"players":
 		{
-			""		""
-			""		""
-			""		""
-			""		""
-			""		""
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		""
 		}
-	}
+	},
 
-	"team2"
+	"team2":
 	{
-		"name"		"team2"
-		"tag"		"team2"
+		"name":		"team2",
+		"tag":		"team2",
 		
-		"players"
+		"players":
 		{
-			""		""
-			""		""
-			""		""
-			""		""
-			""		""
-			""		""
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		"",
+			"":		""
 		}
-	}
+	},
 
 	
-	"cvars"
+	"cvars":
 	{
-		"hostname"		"A2B B03"
+		"hostname":		"A2B B03"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"matchid":		"B05",
-	"num_maps":		"5",
+	"num_maps":		5,
 
 	"spectators":
 	{
@@ -29,9 +29,9 @@
 		"de_vertigo"
 	]
 
-	,"players_per_team":		"5",
-	"min_players_to_ready":		"4",
-	"min_spectators_to_ready":		"0",
+	,"players_per_team":		5,
+	"min_players_to_ready":		4,
+	"min_spectators_to_ready":		0,
 
 	"team1":
 	{

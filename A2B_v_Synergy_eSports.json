@@ -1,6 +1,6 @@
 {
 	"matchid":		"A2B_v_Synergy_eSports",
-	"num_maps":		"1",
+	"num_maps":		1,
 
 	"spectators":
 	{
@@ -29,9 +29,9 @@
 		"de_vertigo"
 	]
 
-	,"players_per_team":		"5",
-	"min_players_to_ready":		"4",
-	"min_spectators_to_ready":		"0",
+	,"players_per_team":		5,
+	"min_players_to_ready":		4,
+	"min_spectators_to_ready":		0,
 
 	"team1":
 	{

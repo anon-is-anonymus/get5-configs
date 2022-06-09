@@ -68,6 +68,7 @@
 	
 	"cvars":
 	{
-		"hostname":		"A2B VS Synergy eSports"
+		"hostname":		"A2B VS Synergy eSports",
+		"tv_delay": 90
 	}
 }

@@ -12,7 +12,7 @@
 		]
 	}
 
-	,"skip_veto":		0,
+	,"skip_veto":		"0",
 
 	"veto_first":	"team1",
 

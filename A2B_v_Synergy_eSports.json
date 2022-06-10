@@ -61,13 +61,16 @@
 			"76561199031375368":		"Legend",
 			"76561198052758825":		"Squirtles",
 			"76561199293670854":		"Leahh",
-			"76561198966509843":		"Aspect"
+			"76561198966509843":		"Aspect",
+			"76561198303049777":		"David"
 		}
 	},
 
 	
 	"cvars":
 	{
+		"tv_allow_camera_man_steamid":		 76561198997841331,
+		"get5_check_auths":		1,
 		"hostname":		"A2B VS Synergy eSports",
 		"tv_delay": 0,
 		"tv_delay1": 10,

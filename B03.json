@@ -4,12 +4,6 @@
 
 	"spectators":
 	{
-		"players":
-		[
-			"STEAM_1:1:.....",
-			"STEAM_1:1:.....",
-			"STEAM_1:1:....."
-		]
 	}
 
 	,"skip_veto":		false,
@@ -36,33 +30,13 @@
 	"team1":
 	{
 		"name":		"team1",
-		"tag":		"team1",
-		
-		"players":
-		{
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		""
-		}
+		"tag":		"team1"
 	},
 
 	"team2":
 	{
 		"name":		"team2",
-		"tag":		"team2",
-		
-		"players":
-		{
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		""
-		}
+		"tag":		"team2"
 	},
 
 	

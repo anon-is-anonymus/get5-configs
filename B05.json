@@ -4,12 +4,6 @@
 
 	"spectators":
 	{
-		"players":
-		[
-			"STEAM_1:1:.....",
-			"STEAM_1:1:.....",
-			"STEAM_1:1:....."
-		]
 	}
 
 	,"skip_veto":		false,
@@ -30,39 +24,21 @@
 	]
 
 	,"players_per_team":		5,
-	"min_players_to_ready":		4,
+	"min_players_to_ready":		5,
 	"min_spectators_to_ready":		0,
 
 	"team1":
 	{
 		"name":		"team1",
-		"tag":		"team1",
+		"tag":		"team1"
 		
-		"players":
-		{
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		""
-		}
 	},
 
 	"team2":
 	{
 		"name":		"team2",
-		"tag":		"team2",
+		"tag":		"team2"
 		
-		"players":
-		{
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		"",
-			"":		""
-		}
 	},
 
 	

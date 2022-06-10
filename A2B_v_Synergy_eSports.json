@@ -69,9 +69,9 @@
 	
 	"cvars":
 	{
-		"tv_allow_camera_man_steamid":		 76561198997841331,
-		"get5_check_auths":		1,
-		"hostname":		"A2B VS Synergy eSports",
+		"tv_allow_camera_man_steamid": 76561198997841331,
+		"get5_check_auths": 1,
+		"hostname": "A2B VS Synergy eSports",
 		"tv_delay": 0,
 		"tv_delay1": 10
 	}

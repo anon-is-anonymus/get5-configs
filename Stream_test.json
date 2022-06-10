@@ -1,0 +1,50 @@
+{
+	"matchid":		"B01",
+	"num_maps":		1,
+
+	"spectators":
+	{
+	}
+
+	,"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_dust2",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_ancient",
+		"de_vertigo"
+	]
+
+	,"players_per_team":		5,
+	"min_players_to_ready":		1,
+	"min_spectators_to_ready":		0,
+
+	"team1":
+	{
+		"name":		"team1",
+		"tag":		"team1"		
+	},
+
+	"team2":
+	{
+		"name":		"team2",
+		"tag":		"team2"
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"stream_test",
+		"tv_delay": 0,
+		"tv_delay1": 10,
+		"get5_live_cfg": "stream.cfg"
+	}
+}

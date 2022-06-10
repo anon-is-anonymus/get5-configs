@@ -1,7 +1,7 @@
 {
 	"matchid":		"stream_test",
 	"num_maps":		1,
-	"skip_veto":		false,
+	"skip_veto":		true,
 	"veto_first":	"team1",
 	"side_type":		"always_knife",
 	"players_per_team":		1,

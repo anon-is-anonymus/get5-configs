@@ -73,6 +73,7 @@
 		"get5_check_auths": 1,
 		"hostname": "A2B VS Synergy eSports",
 		"tv_delay": 0,
-		"tv_delay1": 10
+		"tv_delay1": 10,
+		"get5_live_cfg": "stream.cfg"
 	}
 }

@@ -42,7 +42,7 @@
 	
 	"cvars":
 	{
-		"get5_check_auths":		0,
+		"get5_check_auths":		"0",
 		"hostname":		"stream_test",
 		"tv_delay": 0,
 		"tv_delay1": 10,

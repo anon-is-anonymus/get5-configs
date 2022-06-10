@@ -7,6 +7,10 @@ e.g: get5_loadmatch_url "raw.githubusercontent.com/anon-is-anonymus/get5-configs
 
 ^the above command would load the B01 match config file
 
+# Stream test config
+
+Stream_test: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Stream_test.json
+
 # raw links
 
 B01: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json 

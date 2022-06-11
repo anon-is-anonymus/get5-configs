@@ -4,6 +4,10 @@
 
 	"spectators":
 	{
+		"players":
+		{
+			"76561199328209252":		"Observer"
+		}
 	}
 
 	,"skip_veto":		false,

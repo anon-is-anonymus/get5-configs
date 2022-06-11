@@ -4,6 +4,10 @@
 
 	"spectators":
 	{
+		"players":
+		{
+			"76561199328209252":		"Observer"
+		}
 	}
 
 	,"skip_veto":		false,
@@ -24,7 +28,7 @@
 	]
 
 	,"players_per_team":		5,
-	"min_players_to_ready":		4,
+	"min_players_to_ready":		5,
 	"min_spectators_to_ready":		0,
 
 	"team1":

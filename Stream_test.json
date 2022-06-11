@@ -13,7 +13,7 @@
 	{
 		"players":
 		{
-			"76561199318726505":		"Observer"
+			"76561199328209252":		"Observer"
 		}
 	},
 
@@ -44,11 +44,9 @@
 	
 	"cvars":
 	{
-		"tv_allow_camera_man_steamid":		 76561198997841331,
-		"get5_check_auths":		0,
-		"hostname":		"stream_test",
+		"hostname":	"stream_test",
 		"tv_delay": 0,
-		"tv_delay1": 10,
+		"tv_delay1": 7,
 		"get5_live_cfg": "stream.cfg"
 	}
 }

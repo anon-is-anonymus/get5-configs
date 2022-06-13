@@ -7,6 +7,11 @@ e.g: get5_loadmatch_url "raw.githubusercontent.com/anon-is-anonymus/get5-configs
 
 ^the above command would load the B01 match config file
 
+# Pre Vetoed config
+If you did your match Veto on paper/through discord etc, you can set get5 to use the map veto and map sides by setting "skip_veto" to true, setting "maplist" to the maps played (in order) and setting "map_sides" with "<i>team</i>_<i>side</i>" or "knife"
+
+Pre_Veto_Example: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Pre_Veto_Example.json
+
 # Stream test config
 
 Stream_test: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Stream_test.json

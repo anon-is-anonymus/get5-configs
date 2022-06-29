@@ -28,4 +28,5 @@ B05: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B05.json
 config files created specially for A2B Esports. Join them here: https://discord.gg/rTK6RHyecE  
 
 A2B V Synergy eSports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B_v_Synergy_eSports.json
+
 Angelskar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Angelskar_v_Team_Manta.json

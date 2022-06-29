@@ -1,0 +1,51 @@
+{
+	"matchid":		"Angelskar_v_Team_Manta",
+	"num_maps":		1,
+
+	"spectators":
+	{
+		"players":
+		{
+			"76561199328209252":		"Observer"
+		}
+	}
+
+	,"skip_veto":		false,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_dust2",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_ancient",
+		"de_vertigo"
+	]
+
+	,"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		0,
+
+	"team1":
+	{
+		"name":		"Angelskar",
+		"tag":		"AGS"		
+	},
+
+	"team2":
+	{
+		"name":		"Team Manta",
+		"tag":		"MAN"
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Angelskar_v_Team_Manta"
+	}
+}

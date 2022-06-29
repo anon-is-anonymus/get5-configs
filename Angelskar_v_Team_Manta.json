@@ -10,7 +10,7 @@
 		}
 	}
 
-	,"skip_veto":		false,
+	,"skip_veto":		true,
 
 	"veto_first":	"team1",
 
@@ -18,13 +18,7 @@
 
 	"maplist":
 	[
-		"de_dust2",
-		"de_inferno",
-		"de_mirage",
-		"de_nuke",
-		"de_overpass",
-		"de_ancient",
-		"de_vertigo"
+		"de_mirage"
 	]
 
 	,"players_per_team":		5,

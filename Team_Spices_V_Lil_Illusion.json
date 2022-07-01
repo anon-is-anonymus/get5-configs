@@ -1,0 +1,61 @@
+{
+	"matchid":		"Team_Spices_v_Lil_Illusion",
+	"num_maps":		1,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762":		"Observer"
+		}
+	},
+
+	"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_nuke"
+	]
+
+	,"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		0,
+
+	"team1":
+	{
+		"name":		"Team_Spices",
+		"tag":		"SPI",
+		"players":
+		{
+			"STEAM_0:1:106069868": "Rabas",
+			"STEAM_0:1:461516004": "lac1s",
+			"STEAM_0:1:181968583": "seftzgu",
+			"STEAM_0:1:599517512": "tr1ckshot",
+			"STEAM_0:1:419420957": "Specture"
+		}
+	},
+
+	"team2":
+	{
+		"name":		"Lil_Illusion",
+		"tag":		"LIL",
+		"players":
+		{
+			"STEAM_0:0:182190875": "ya1ofan",
+			"STEAM_0:1:202874681": "mkid201",
+			"STEAM_0:1:59343375": "LuckyShot",
+			"STEAM_0:1:178498593": "Broken",
+			"STEAM_0:0:643023089": "DJxAngerfist"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Team_Spices_v_Lil_Illusion"
+	}
+}

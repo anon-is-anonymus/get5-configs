@@ -30,3 +30,5 @@ config files created specially for A2B Esports. Join them here: https://discord.
 A2B V Synergy eSports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B_v_Synergy_eSports.json
 
 Angelskar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Angelskar_v_Team_Manta.json
+
+Team Spices V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Team_Spices_V_Lil_Illusion.json

@@ -1,0 +1,68 @@
+{
+	"matchid": "Broken_Bois_v_Synergy_eSports",
+	"num_maps":	1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+	"veto_first": "team1",
+	"side_type": "always_knife",
+
+	"spectators":
+	{
+		"players":
+		{
+			"76561199328209252":		"@autem.s"
+		}
+	},
+
+	"maplist":
+	[
+		"de_dust2"
+	],
+
+	"team1":
+	{
+		"name": "Broken Bois",
+		"tag": "BOIS",
+		
+		"players":
+		{
+			"76561198179555278":		"Revive",
+			"76561198366015091":		"mkid201",
+			"76561199014599577":		"s0mTR",
+			"76561199232573945":		"maniak",
+			"76561198324647478":		"ya1ofan",
+			"76561199288039805":		"K1ngZ"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Synergy eSports",
+		"tag": "SYE",
+		
+		"players":
+		{
+			"76561198350292685":		"Scotty",
+			"76561198027330025":		"Ghost",
+			"76561199110277929":		"Usman",
+			"76561199001630474":		"Tubbie",
+			"76561199170155104":		"Taylor",
+			"76561199031375368":		"Legend",
+			"76561198052758825":		"Squirtles",
+			"76561199293670854":		"Leahh",
+			"76561198966509843":		"Aspect",
+			"76561198303049777":		"David"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname": "A2B VS Synergy eSports",
+		"tv_delay": 0,
+		"tv_delay1": 7,
+		"get5_live_cfg": "stream.cfg"
+	}
+}

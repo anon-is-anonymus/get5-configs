@@ -34,3 +34,7 @@ Angelskar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/
 Team Spices V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Team_Spices_V_Lil_Illusion.json
 
 Team Baguette V NMTK: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Team_Baguette_V_NMTK.json
+
+Illusion V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Illusion_V_Lil_Illusion.json
+
+Vandad Esports V NMTK: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Vandad_Esports_V_NMTK.json

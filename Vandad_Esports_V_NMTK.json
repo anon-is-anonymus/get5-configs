@@ -1,0 +1,62 @@
+{
+	"matchid":		"Team_Baguette_V_NMTK",
+	"num_maps":		1,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762":		"@DontCryUsman"
+		}
+	},
+
+	"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_inferno"
+	],
+
+	"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		0,
+
+	"team1":
+	{
+		"name":		"Vandad Esports",
+		"tag":		"VAN",
+		"players":
+		{
+			"STEAM_0:0:233127958": "mr_sickness",
+			"STEAM_0:1:420031882": "jupats23",
+			"STEAM_0:1:211751315": "Blackpromike",
+			"STEAM_0:1:599077602": "H0pper",
+			"STEAM_0:1:555944167": "Kade"
+		}
+	},
+
+	"team2":
+	{
+		"name":		"NMTK",
+		"tag":		"NMTK",
+		"players":
+		{
+			"STEAM_0:0:225475713": "A1ek",
+			"STEAM_0:1:182701259": "El1te",
+			"STEAM_0:0:196565901": "P1xl",
+			"STEAM_0:0:493545233": "Majstorski",
+			"STEAM_0:0:243586127": "Doggo",
+			"STEAM_0:1:456563042": "Luc1d"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Vandad_Esports_V_NMTK"
+	}
+}

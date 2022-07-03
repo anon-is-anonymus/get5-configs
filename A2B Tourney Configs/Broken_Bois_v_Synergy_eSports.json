@@ -3,7 +3,7 @@
 	"num_maps":	1,
 	"players_per_team": 5,
 	"min_players_to_ready": 5,
-	"min_spectators_to_ready": 1,
+	"min_spectators_to_ready": 0,
 	"skip_veto": true,
 	"veto_first": "team1",
 	"side_type": "always_knife",
@@ -18,7 +18,7 @@
 
 	"maplist":
 	[
-		"de_dust2"
+		"de_vertigo"
 	],
 
 	"team1":

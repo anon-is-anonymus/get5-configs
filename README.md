@@ -29,7 +29,7 @@ config files created specially for A2B Esports. Join them here: https://discord.
 
 A2B V Synergy eSports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/A2B_v_Synergy_eSports.json
 
-Angelskar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Angelskar_v_Team_Manta.json
+AngelSkar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Angelskar_v_Team_Manta.json
 
 Team Spices V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Team_Spices_V_Lil_Illusion.json
 
@@ -40,3 +40,5 @@ Illusion V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs
 Vandad Esports V NMTK: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Vandad_Esports_V_NMTK.json
 
 Broken Bois V Synergy Esports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Broken_Bois_v_Synergy_eSports.json
+
+Illusion V AngelSkar: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Illusion_V_AngelSkar.json

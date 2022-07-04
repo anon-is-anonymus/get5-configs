@@ -1,0 +1,62 @@
+{
+	"matchid":		"Illusion_v_Angelskar",
+	"num_maps":		1,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762":		"@DontCryUsman"
+		}
+	},
+
+	"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_inferno"
+	],
+
+	"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		1,
+
+	"team1":
+	{
+		"name":		"Illusion",
+		"tag":		"ILL",
+		"players":
+		{
+			"STEAM_0:0:109644775": "Revive",
+			"STEAM_0:1:527166924": "s0mTR",
+			"STEAM_0:1:636154108": "maniak",
+			"STEAM_0:1:518787801": "Hynax",
+			"STEAM_0:1:441739997": "itsJuC",
+			"STEAM_0:1:123025575": "Halloluke"
+		}
+	},
+
+	"team2":
+	{
+		"name":		"AngelSkar",
+		"tag":		"AGS",
+		"players":
+		{
+			"": "",
+			"": "",
+			"": "",
+			"": "",
+			"": ""
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Illusion_v_AngelSkar"
+	}
+}

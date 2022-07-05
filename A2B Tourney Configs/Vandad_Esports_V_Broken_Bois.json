@@ -1,0 +1,62 @@
+{
+	"matchid":		"Vandad_Esports_V_Broken_Bois",
+	"num_maps":		1,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762":		"@autem.s"
+		}
+	},
+
+	"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"always_knife",
+
+	"maplist":
+	[
+		"de_nuke"
+	],
+
+	"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		1,
+
+	"team1":
+	{
+		"name":		"Vandad Esports",
+		"tag":		"VAN",
+		"players":
+		{
+			"STEAM_0:0:233127958": "mr_sickness",
+			"STEAM_0:1:420031882": "jupats23",
+			"STEAM_0:1:211751315": "Blackpromike",
+			"STEAM_0:1:599077602": "H0pper",
+			"STEAM_0:1:555944167": "Kade"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Broken Bois",
+		"tag": "BOIS",
+		
+		"players":
+		{
+			"STEAM_0:1:108965545": "Polar",
+			"STEAM_0:1:437677207": "Voldral",
+			"STEAM_0:0:81026518": "Flexy",
+			"STEAM_0:1:495759204": "Broken",
+			"STEAM_0:1:588919973": "Karl"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Vandad_Esports_V_Broken_Bois"
+	}
+}

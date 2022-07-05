@@ -57,6 +57,7 @@
 	
 	"cvars":
 	{
-		"hostname":		"Vandad_Esports_V_Broken_Bois"
+		"hostname":		"Vandad_Esports_V_Broken_Bois",
+		"tv_delay":		"0"
 	}
 }

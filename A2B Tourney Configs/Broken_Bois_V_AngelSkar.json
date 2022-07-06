@@ -1,0 +1,67 @@
+{
+	"matchid":		"Broken_Bois_v_Angelskar",
+	"num_maps":		3,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762":		"@autem.s"
+		}
+	},
+
+	"skip_veto":		true,
+
+	"map_sides":
+	[
+		"team1_ct",
+		"team1_t",
+		"knife"
+	],
+
+	"maplist":
+	[
+		"de_inferno",
+		"de_mirage",
+		"de_ancient"
+	],
+
+	"players_per_team":		5,
+	"min_players_to_ready":		5,
+	"min_spectators_to_ready":		1,
+
+	"team1":
+	{
+		"name": "Broken Bois",
+		"tag": "BOIS",
+		
+		"players":
+		{
+			"STEAM_0:1:108965545": "Polar",
+			"STEAM_0:1:437677207": "Voldral",
+			"STEAM_0:0:81026518": "Flexy",
+			"STEAM_0:1:495759204": "Broken",
+			"STEAM_0:1:588919973": "Karl"
+		}
+	},
+
+	"team2":
+	{
+		"name":		"AngelSkar",
+		"tag":		"AGS",
+		"players":
+		{
+			"STEAM_0:0:224566331": "faya",
+			"STEAM_0:1:628949937": "hoppiNo",
+			"STEAM_0:0:81123766": "MangoA",
+			"STEAM_0:1:560906695": "m1ka",
+			"STEAM_0:1:520555558": "BohaNN"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Broken_Bois_v_AngelSkar"
+	}
+}

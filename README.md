@@ -44,3 +44,5 @@ Broken Bois V Synergy Esports: raw.githubusercontent.com/anon-is-anonymus/get5-c
 Illusion V AngelSkar: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Illusion_V_AngelSkar.json
 
 Vandad Esports V Broken Bois: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Vandad_Esports_V_Broken_Bois.json
+
+Broken Bois V AngelSkar: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Broken_Bois_V_AngelSkar.json

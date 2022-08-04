@@ -1,0 +1,66 @@
+{
+	"matchid": "Coaching_Example",
+	"num_maps":	3,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 0,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"76561199328209252":		"Observer"
+		}
+	},
+
+	"map_sides":
+	[
+		"team1_ct",
+		"team1_t",
+		"knife"
+	],
+	
+	"maplist":
+	[
+		"de_inferno",
+		"de_mirage",
+		"de_ancient"
+	],
+
+	"team1":
+	{
+		"name": "Team 1",
+		"tag": "Team 1",
+		"flag": "EU",
+		
+		"players":
+		{
+		},
+		"coaches":{
+			"76561199328209252": "T1 Coach"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Team 2",
+		"tag": "Team 2",
+		"flag": "EU",
+		
+		"players":
+		{
+		},
+		"coaches":{
+			"76561199328209252": "T2 Coach"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname": "Coaching_Example",
+		"sv_coaching_enabled": 1
+	}
+}

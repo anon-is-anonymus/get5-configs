@@ -1,6 +1,11 @@
 {
 	"matchid":		"ESL",
 	"num_maps":		3,
+	"skip_veto":		true,
+	"players_per_team":		5,
+	"coaches_per_team": 1,
+	"min_players_to_ready":		1,
+	"min_spectators_to_ready":		1,
 
 	"spectators":
 	{
@@ -8,24 +13,22 @@
 		{
 			"76561199328209252":		"Observer"
 		}
-	}
-
-	,"skip_veto":		true,
-
-	"veto_first":	"team1",
-
-	"side_type":		"standard",
+	},
 
 	"maplist":
 	[
 		"de_dust2",
 		"de_inferno",
 		"de_mirage"
-	]
+	],
 
-	,"players_per_team":		5,
-	"min_players_to_ready":		1,
-	"min_spectators_to_ready":		1,
+	
+	"map_sides":
+	[
+		"team1_ct",
+		"team1_t",
+		"knife"
+	],
 
 	"team1":
 	{

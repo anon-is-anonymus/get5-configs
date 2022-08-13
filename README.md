@@ -4,10 +4,10 @@ just a bunch of configs
 copy the links below and execute them using get5_loadmatch_url, do note that you must have steamworks installed  
 
 e.g:
-'''
+```
 get5_loadmatch_url raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json 
 get5_loadmatch_url "https://raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json"
-'''
+```
 
 ^the above command would load the B01 match config file
 

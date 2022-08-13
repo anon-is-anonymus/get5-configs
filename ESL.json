@@ -1,0 +1,59 @@
+{
+	"matchid":		"ESL",
+	"num_maps":		3,
+
+	"spectators":
+	{
+		"players":
+		{
+			"76561199328209252":		"Observer"
+		}
+	}
+
+	,"skip_veto":		true,
+
+	"veto_first":	"team1",
+
+	"side_type":		"standard",
+
+	"maplist":
+	[
+		"de_dust2",
+		"de_inferno",
+		"de_mirage"
+	]
+
+	,"players_per_team":		5,
+	"min_players_to_ready":		1,
+	"min_spectators_to_ready":		1,
+
+	"team1":
+	{
+		"name":		"team1",
+		"tag":		"team1"
+	},
+
+	"team2":
+	{
+		"name":		"team2",
+		"tag":		"team2"
+	},
+
+	
+	"cvars":
+	{
+		"hostname":	"ESL",
+		"mp_halftime": 1,
+		"mp_halftime_pausetimer": 1,
+		"mp_halftime_duration":	0,
+		"mp_overtime_startmoney": 12500,
+		"sv_coaching_enabled": 1,
+		"sv_competitive_official_5v5": 1,
+		"sv_damage_print_enable": 0,
+		"mp_freezetime": 20,
+		"mp_friendlyfire": 1,
+		"mp_items_prohibited": "",
+		"mp_round_restart_delay": 5,
+		"tv_allow_camera_man_steamid": 76561199328209252
+	}
+}

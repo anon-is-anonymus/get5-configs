@@ -3,7 +3,11 @@ just a bunch of configs
 
 copy the links below and execute them using get5_loadmatch_url, do note that you must have steamworks installed  
 
-e.g: get5_loadmatch_url "raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json"  
+e.g:
+'''
+get5_loadmatch_url raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json 
+get5_loadmatch_url "https://raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B01.json"
+'''
 
 ^the above command would load the B01 match config file
 
@@ -16,6 +20,11 @@ Pre_Veto_Example: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/P
 If your match has coaches, you can specify how many and who can act as a coach in the match by setting "coaches_per_team" to whatever number of coaches you have. Within the "team" sections, add a "coaches:{}" section and add in the coach SteanID and nickname if you want to force one.
 
 Coaching_Example: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Coaching_Example.json
+
+# ESL config
+Config based off of ESL settings, though I recommend that you just dump the cvars into the get5 live config itself.
+
+ESL_config: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/ESL.json
 
 # Stream test config
 
@@ -30,24 +39,4 @@ B03: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B03.json
 B05: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/B05.json  
 
 # A2B
-config files created specially for A2B Esports. Join them here: https://discord.gg/rTK6RHyecE  
-
-A2B V Synergy eSports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B_v_Synergy_eSports.json
-
-AngelSkar V Team Manta: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Angelskar_v_Team_Manta.json
-
-Team Spices V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Team_Spices_V_Lil_Illusion.json
-
-Team Baguette V NMTK: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Team_Baguette_V_NMTK.json
-
-Illusion V Lil Illusion: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Illusion_V_Lil_Illusion.json
-
-Vandad Esports V NMTK: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Vandad_Esports_V_NMTK.json
-
-Broken Bois V Synergy Esports: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Broken_Bois_v_Synergy_eSports.json
-
-Illusion V AngelSkar: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Illusion_V_AngelSkar.json
-
-Vandad Esports V Broken Bois: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Vandad_Esports_V_Broken_Bois.json
-
-Broken Bois V AngelSkar: raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/A2B%20Tourney%20Configs/Broken_Bois_V_AngelSkar.json
+I have config files created specially for A2B Esports. [Join them here](https://discord.gg/rTK6RHyecE). All files are in the A2B folder. I'm not taking requests to do custom match configs unless u feel like paying me lmao.

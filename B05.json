@@ -1,20 +1,20 @@
 {
-	"matchid":		"B05",
-	"num_maps":		5,
+	"matchid": "B05",
+	"num_maps": 5,
+	"skip_veto": false,
+	"veto_first": "team1",
+	"side_type": "standard",
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
 
 	"spectators":
 	{
 		"players":
 		{
-			"76561199328209252":		"Observer"
+			"76561199328209252": "Observer"
 		}
-	}
-
-	,"skip_veto":		false,
-
-	"veto_first":	"team1",
-
-	"side_type":		"standard",
+	},
 
 	"maplist":
 	[
@@ -25,29 +25,39 @@
 		"de_overpass",
 		"de_ancient",
 		"de_vertigo"
-	]
-
-	,"players_per_team":		5,
-	"min_players_to_ready":		5,
-	"min_spectators_to_ready":		0,
+	],
 
 	"team1":
 	{
-		"name":		"team1",
-		"tag":		"team1"
+		"name": "team1",
+		"tag": "team1",
+		"flag": "EU",
 		
+		"players":{
+		
+		},
+		"coaches":{
+			
+		}
 	},
 
 	"team2":
 	{
-		"name":		"team2",
-		"tag":		"team2"
+		"name": "team2",
+		"tag": "team2",
+		"flag": "EU",
 		
+		"players":{
+		
+		},
+		"coaches":{
+			
+		}
 	},
 
 	
 	"cvars":
 	{
-		"hostname":		"B05"
+		"hostname": "B05"
 	}
 }

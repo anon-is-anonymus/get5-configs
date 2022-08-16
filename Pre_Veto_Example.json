@@ -10,7 +10,7 @@
 	{
 		"players":
 		{
-			"76561199328209252":		"Observer"
+			"76561199328209252": "Observer"
 		}
 	},
 
@@ -34,8 +34,11 @@
 		"tag": "Team 1",
 		"flag": "EU",
 		
-		"players":
-		{
+		"players":{
+		
+		},
+		"coaches":{
+			
 		}
 	},
 
@@ -45,8 +48,11 @@
 		"tag": "Team 2",
 		"flag": "EU",
 		
-		"players":
-		{
+		"players":{
+		
+		},
+		"coaches":{
+			
 		}
 	},
 

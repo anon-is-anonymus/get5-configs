@@ -1,17 +1,17 @@
 {
-	"matchid":		"ESL",
-	"num_maps":		3,
-	"skip_veto":		true,
-	"players_per_team":		5,
+	"matchid": "ESL",
+	"num_maps": 3,
+	"skip_veto": true,
+	"players_per_team":	5,
 	"coaches_per_team": 1,
-	"min_players_to_ready":		1,
-	"min_spectators_to_ready":		1,
+	"min_players_to_ready": 1,
+	"min_spectators_to_ready": 1,
 
 	"spectators":
 	{
 		"players":
 		{
-			"76561199328209252":		"Observer"
+			"76561199328209252": "Observer"
 		}
 	},
 

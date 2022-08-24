@@ -1,6 +1,11 @@
 {
 	"matchid": "AngelSkar_Sierra_V_",
 	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 1,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
 
 	"spectators":
 	{
@@ -10,18 +15,12 @@
 		}
 	},
 
-	"skip_veto": true,
-
 	"side_type": "always_knife",
 
 	"maplist":
 	[
 		"de_nuke"
 	],
-
-	"players_per_team":		5,
-	"min_players_to_ready":		1,
-	"min_spectators_to_ready":		1,
 
 	"team1":
 	{

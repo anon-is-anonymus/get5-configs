@@ -30,12 +30,12 @@
 
 	"team2":
 	{
-		
+		"fromfile": "cfg/get5/teams/AngelSkar_Sierra.cfg"
 	},
 
 	
 	"cvars":
 	{
-		"hostname":		"AngelSkar_Sierra_V_"
+		"hostname":		"AngelSkar_Sierra_V_g"
 	}
 }

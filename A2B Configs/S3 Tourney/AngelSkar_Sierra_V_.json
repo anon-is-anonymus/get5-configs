@@ -25,12 +25,12 @@
 
 	"team1":
 	{
-		"fromfile": "cfg/get5/teams/AngelSkar_Sierra.cfg"
+		"fromfile": "cfg/get5/teams/AngelSkar_Sierra.json"
 	},
 
 	"team2":
 	{
-		"fromfile": "cfg/get5/teams/AngelSkar_Sierra2.cfg"
+		"fromfile": "cfg/get5/teams/AngelSkar_Sierra2.json"
 	},
 
 	

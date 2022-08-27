@@ -1,0 +1,62 @@
+{
+	"matchid": "Atomic_V_Kittens",
+	"num_maps": 3,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 1,
+	"min_spectators_to_ready": 0,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		"de_mirage",
+		"de_inferno",
+		"de_dust2"
+	],
+
+	"team1":
+	{
+		"players":
+		{
+			"STEAM_0:1:106069868": "Rabas",
+			"STEAM_0:1:419420957": "Specture",
+			"STEAM_0:1:599517512": "tr1ckshot",
+			"STEAM_0:1:181968583": "Seftzgu",
+			"STEAM_0:1:527166924": "s0mTR"
+		},
+		"coaches":{
+			"76561199328209252": "Atomic's Coach"
+		}
+	},
+
+	"team2":
+	{
+		"players":
+		{
+			"STEAM_0:0:599882568": "ehmil",
+			"STEAM_0:1:456665320": "crodo",
+			"STEAM_0:1:436713925": "f1ghtEr",
+			"STEAM_0:0:147177247": "Autem",
+			"STEAM_0:1:467736431": "hNs"
+		},
+		"coaches":{
+			"76561199328209252": "Kitten's Coach"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Atomic_V_Kittens"
+	}
+}

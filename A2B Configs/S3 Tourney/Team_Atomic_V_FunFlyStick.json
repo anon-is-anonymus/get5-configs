@@ -1,0 +1,60 @@
+{
+	"matchid": "Team_Atomic_V_FunFlyStick",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Team Atomic",
+		"tag": "ATO",
+		"flag": "EU",
+		"players":
+		{
+			"76561198172405465": "Rabas",
+			"76561199159300753": "tr1ckshot",
+			"76561198324202895": "seftzgu",
+			"76561198366015091": "mkid201",
+			"76561198827017817": "a1mlock"
+		}
+	},
+
+	"team2":
+	{
+		"name": "FunFlyStick",
+		"tag": "FFS",
+		"flag": "EU",
+		"players":
+		{
+			"76561199071318057": "Ouwedouwe",
+			"76561198366210715": "sh4duw",
+			"76561198955693117": "spar7an",
+			"76561199011678312": "whaitasLTU",
+			"76561198115859467": "ADistraction"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Team_Atomic_V_FunFlyStick"
+	}
+}

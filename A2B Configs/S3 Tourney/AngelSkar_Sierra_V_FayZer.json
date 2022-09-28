@@ -1,0 +1,63 @@
+{
+	"matchid": "AngelSkar_Sierra_V_FayZer",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "AngelSkar Sierra",
+		"tag": "ASS",
+		"flag": "EU",
+		"players":
+		{
+			"76561198169995127": "j0el_",
+			"76561198246074054": "Lennert",
+			"76561198170862962": "Erko",
+			"76561198806393136": "Vowles",
+			"76561198033666769": "Dapper",
+			"76561199100607245": "StormZ"
+		},
+		"coaches":{
+			"76561198057996636": "IceCold"
+		}
+	},
+
+	"team2":
+	{
+		"name": "FayZer",
+		"tag": "FZ",
+		"players":
+		{
+			"76561199122830897": "Godlike",
+			"76561199177211831": "LeonUno",
+			"76561199249452259": "wagooigi",
+			"76561199383074225": "Relos",
+			"76561199389868017": "OnE_TaP_PrOxIV"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"AngelSkar_Sierra_V_FayZer"
+	}
+}

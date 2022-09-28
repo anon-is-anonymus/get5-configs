@@ -1,0 +1,62 @@
+{
+	"matchid": "AngelSkar_Esports_V_Overtimers",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "AngelSkar Esports",
+		"tag": "ASE",
+		"flag": "EU",
+		"players":
+		{
+			"76561199218165603": "hope",
+			"76561198409398390": "faya",
+			"76561198133787981": "mango",
+			"76561198122513260": "noxy",
+			"76561199082079119 ": "m1ka",
+            "": "tetchki",
+            "": "rash"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Overtimers",
+		"tag": "OT",
+		"flag": "EU",
+		"players":
+		{
+			"76561198215764159": "Dutch Boy",
+			"76561197985900279": "brazlevic",
+			"76561198381695972": "Havu",
+			"76561199013108793": "Young Ressan",
+			"76561198346625956": "Sam-V"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"AngelSkar_Esports_V_Overtimers"
+	}
+}

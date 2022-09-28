@@ -1,0 +1,62 @@
+{
+	"matchid": "Naxuynicite_V_AngelSkar_Oblivion",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Naxuynicite",
+		"tag": "XUY",
+		"flag": "BG",
+		"players":
+		{
+			"76561199093220177": "Andonov",
+			"76561199241713915": "Etic",
+			"76561198404960436": "Yam4u",
+			"76561199106302882": "Karadzhoww",
+			"76561199332491082": "Angelov",
+			"76561198356352517": "13sudo37"
+		}
+	},
+
+	"team2":
+	{
+		"name": "AngelSkar Oblivion",
+		"tag": "AOB",
+		"flag": "EU",
+		"players":
+		{
+			"76561199052310022": "Luuky",
+			"76561199234506701": "Ares",
+			"76561199067270445": "Tume",
+			"76561198134179828": "FlowzyyX-",
+			"76561198871427587": "Sky",
+			"76561199038780033": "Dávid"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Naxuynicite_V_AngelSkar_Oblivion"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"matchid": "AngelSkar_Esports_V_Overtimers",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Easy Peasy",
+		"tag": "EP",
+		"flag": "EU",
+		"players":
+		{
+			"76561199055025121": "Pulse",
+			"76561199213209936": "MoosE",
+			"76561199062059237": "miggyz",
+			"76561199249452259": "wagooigi",
+			"76561199207881737": "buurmanmol",
+            "76561198324647478": "E.K"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Team Nemesis",
+		"tag": "TN",
+		"flag": "EU",
+		"players":
+		{
+			"76561198215764159": "Wunkis",
+			"76561198889381471": "kami",
+			"76561199080767036": "Step",
+			"76561198289443167": "Eightyy",
+			"76561198277059369": "Frsh"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"AngelSkar_Esports_V_Overtimers"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"matchid": "GM_Squad_V_Team_Epic_Failures",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Gm Squad",
+		"tag": "GMS",
+		"flag": "PL",
+		"players":
+		{
+			"76561198317262915": "Broken",
+			"76561198448356372": "Artix",
+			"76561198271526425": "Mendu",
+			"76561198178196819": "Polar",
+			"76561199165441338 ": "Maka",
+            "76561199101425679": "Krzychu"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Team Epic Failures",
+		"tag": "TEF",
+		"flag": "EU",
+		"players":
+		{
+			"76561199111972230": "AlanB",
+			"76561198164972224": "J4N",
+			"76561197974701495": "CarpeVinum",
+			"76561198340576061": "Dome",
+			"76561198925404511": "Anseptos"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"GM_Squad_V_Team_Epic_Failures"
+	}
+}

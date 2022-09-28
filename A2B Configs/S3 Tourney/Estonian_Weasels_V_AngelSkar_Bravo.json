@@ -1,0 +1,62 @@
+{
+	"matchid": "Estonian_Weasels_V_AngelSkar_Bravo",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@"
+		}
+	},
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Estonian Weasels",
+		"tag": "EEW",
+		"flag": "EE",
+		"players":
+		{
+			"76561198110442767": "🐺Johanna🐺",
+			"76561198170838021": "manna81",
+			"76561199158420933": "✪H0pper",
+			"76561198800329493": "jupats23",
+			"76561198383768359 ": "IcY",
+            "76561198165401129": "pääsuke",
+            "76561198212909789": "Wuhan tap"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Angelskar Bravo",
+		"tag": "AOB",
+		"flag": "DK",
+		"players":
+		{
+			"76561199382022243": "Ed1t",
+			"76561199216697283": "St0rk",
+			"76561198213027027": "Joe Biden",
+			"76561199067563392": "Nah",
+			"76561198987775911": "Ninjak1wi"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Estonian_Weasels_V_AngelSkar_Bravo"
+	}
+}

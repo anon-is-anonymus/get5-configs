@@ -17,7 +17,7 @@ raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Pre_Veto_Example.js
 ```
 
 # Coaching config
-If your match has coaches, you can specify how many and who can act as a coach in the match by setting "coaches_per_team" to whatever number of coaches you have. Within the "team" sections, add a "coaches:{}" section and add in the coach SteanID and nickname if you want to force one.
+If your match has coaches, you can specify how many and who can act as a coach in the match by setting "coaches_per_team" to whatever number of coaches you have. Within the "team" sections, add a "coaches:{}" section and add in the coach SteamID and nickname if you want to force one.
 ```
 raw.githubusercontent.com/anon-is-anonymus/get5-configs/main/Coaching_Example.json
 ```

@@ -1,0 +1,54 @@
+{
+	"matchid": "Easy_Peasy_V_Team_Nemesis",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 0,
+	"skip_veto": true,
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "Overtimers",
+		"tag": "OT",
+		"flag": "EU",
+		"players":
+		{
+			"76561198215764159": "Dutch Boy",
+			"76561197985900279": "brazlevic",
+			"76561198381695972": "Havu",
+			"76561199013108793": "Young Ressan",
+			"76561198346625956": "Sam-V",
+			"76561198163814276": "Jobjanusz"
+		}
+	},
+
+	"team2":
+	{
+		"name": "Team Nemesis",
+		"tag": "TN",
+		"flag": "EU",
+		"players":
+		{
+			"76561199232573945": "Wunkis",
+			"76561198889381471": "kami",
+			"76561199080767036": "Step",
+			"76561198289443167": "Eightyy",
+			"76561198277059369": "Frsh",
+			"76561198931481175": "ZeKuS"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"Overtimers_V_Team_Nemesis"
+	}
+}

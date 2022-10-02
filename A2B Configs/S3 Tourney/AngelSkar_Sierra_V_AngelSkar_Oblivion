@@ -1,0 +1,57 @@
+{
+	"matchid": "AngelSkar_Sierra_V_AngelSkar_Oblivion",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 0,
+	"skip_veto": true,
+
+	"side_type": "always_knife",
+
+	"maplist":
+	[
+		""
+	],
+
+	"team1":
+	{
+		"name": "AngelSkar Sierra",
+		"tag": "ASS",
+		"flag": "EU",
+		"players":
+		{
+			"76561198169995127": "j0el_",
+			"76561198246074054": "Lennert",
+			"76561198170862962": "Erko",
+			"76561198806393136": "Vowles",
+			"76561198033666769": "Dapper",
+			"76561199100607245": "StormZ"
+		},
+		"coaches":{
+			"76561198057996636": "IceCold"
+		}
+	},
+
+	"team2":
+	{
+		"name": "AngelSkar Oblivion",
+		"tag": "AOB",
+		"flag": "EU",
+		"players":
+		{
+			"76561199052310022": "Luuky",
+			"76561199234506701": "Ares",
+			"76561199067270445": "Tume",
+			"76561198134179828": "FlowzyyX-",
+			"76561198871427587": "Sky",
+			"76561199038780033": "Dávid"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"AngelSkar_Sierra_V_AngelSkar_Oblivion"
+	}
+}

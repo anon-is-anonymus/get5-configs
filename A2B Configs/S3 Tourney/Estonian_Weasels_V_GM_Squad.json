@@ -11,7 +11,7 @@
 	{
 		"players":
 		{
-			"STEAM_0:0:683971762": "@autem.s"
+			"STEAM_0:0:683971762": "@anon_is_anonymus"
 		}
 	},
 
@@ -19,7 +19,7 @@
 
 	"maplist":
 	[
-		"de_overpass"
+		"de_vertigo"
 	],
 
 	"team1":

@@ -1,6 +1,6 @@
 {
     "matchid": "Estonian_Weasels_V_Overtimers",
-    "num_maps":	2,
+    "num_maps":	1,
     "coaches_per_team": 1,
     "players_per_team": 5,
     "min_players_to_ready": 5,
@@ -17,14 +17,12 @@
 
     "map_sides":
 	[
-		"team1_ct",
-		"knife"
+		"team1_ct"
 	],
 
     "maplist":
     [
-        "de_ancient",
-        "de_vertigo"
+        "de_ancient"
     ],
 
     "team1":

@@ -17,14 +17,12 @@
 
     "map_sides":
 	[
-		"team1_t",
 		"team1_ct",
 		"knife"
 	],
 
     "maplist":
     [
-        "de_overpass",
         "de_ancient",
         "de_vertigo"
     ],

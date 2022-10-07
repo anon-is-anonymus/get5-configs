@@ -4,14 +4,22 @@
 	"coaches_per_team": 1,
 	"players_per_team": 5,
 	"min_players_to_ready": 5,
-	"min_spectators_to_ready": 0,
+	"min_spectators_to_ready": 1,
 	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@anon_is_anonymus"
+		}
+	},
 
 	"side_type": "always_knife",
 
 	"maplist":
 	[
-		""
+		"de_inferno"
 	],
 
 	"team1":

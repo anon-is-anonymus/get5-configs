@@ -1,0 +1,76 @@
+{
+	"matchid": "AngelSkar_Lambda_V_AngelSkar_Sierra",
+	"num_maps":	1,
+	"coaches_per_team": 1,
+	"players_per_team": 5,
+	"min_players_to_ready": 5,
+	"min_spectators_to_ready": 1,
+	"skip_veto": true,
+
+	"spectators":
+	{
+		"players":
+		{
+			"STEAM_0:0:683971762": "@anon_is_anonymus"
+		}
+	},
+
+	"map_sides":
+	[
+		"team1_t",
+		"team1_ct",
+		"knife"
+	],
+
+    "maplist":
+    [
+        "de_mirage",
+		"de_ancient",
+		""
+    ],
+
+	"team1":
+	{
+		"name": "AngelSkar Lambda",
+		"tag": "ASL",
+		"flag": "SE",
+		"players":
+		{
+			"76561198815871165": "catfood",
+			"76561198373152765": "karca",
+			"76561199194708567": "Panzer",
+			"76561199107575404": "L1nd",
+			"76561198423987435": "Flofighter",
+			"76561198185195035": "Ousayy"
+		},
+		"coaches":
+		{
+			"76561198148922792": "GuMmiDucks"
+		}
+	},
+
+	"team2":
+	{
+		"name": "AngelSkar Sierra",
+		"tag": "ASS",
+		"flag": "EU",
+		"players":
+		{
+			"76561198169995127": "j0el_",
+			"76561198246074054": "Lennert",
+			"76561198170862962": "Erko",
+			"76561198806393136": "Vowles",
+			"76561198033666769": "Dapper",
+			"76561199100607245": "StormZ"
+		},
+		"coaches":{
+			"76561198057996636": "IceCold"
+		}
+	},
+
+	
+	"cvars":
+	{
+		"hostname":		"AngelSkar_Lambda_V_AngelSkar_Sierra"
+	}
+}
